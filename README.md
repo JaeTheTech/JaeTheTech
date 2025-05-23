@@ -1,66 +1,66 @@
-# 👋 Welcome to JaeTheTech's Profile!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to JaeTheTech's Profile!
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&width=435&lines=Tech+Enthusiast;Learning+to+Code;Building+Computers;Always+Learning" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💻 About Me
 ```python
 class JaeTheTech:
     def __init__(self):
         self.name = "Jaeger"
         self.role = "Tech Enthusiast & Aspiring Developer"
         self.experience = "9+ years building computers"
-        self.current_focus = "Learning to Code with Codecademy"
         self.learning = ["Python", "JavaScript", "Web Development"]
-        self.interests = ["Computer Science", "Hardware", "Open Source"]
         
     def current_status(self):
-        return "Converting my hardware knowledge into software skills! 🚀"
+        return "Converting hardware knowledge into code! 🚀"
 ```
 
-## 🔧 Skills & Tools
+### 🔧 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+</td>
+<td width="40%">
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=JaeTheTech&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaeTheTech&theme=tokyonight" alt="GitHub Streak" width="100%">
+
+</td>
+</tr>
+</table>
+
+### 🎓 Learning Journey
 ```javascript
-const skills = {
-    hardware: ["PC Building", "Hardware Troubleshooting", "System Optimization"],
-    software: ["Windows", "Linux", "Learning to Code"],
-    currentlyLearning: {
-        platforms: ["Codecademy"],
-        languages: ["Python", "JavaScript", "HTML/CSS"],
-        concepts: ["Programming Fundamentals", "Web Development"]
-    },
-    tools: ["Git", "VS Code", "Command Line"]
+const currentLearning = {
+    platform: "Codecademy",
+    courses: ["Python", "JavaScript", "Web Development"],
+    projects: "Coming Soon!",
+    status: "Always learning, always growing! 📚"
 };
 ```
 
-## 🎓 Learning Journey
-```bash
-# My Coding Progress
-├── Codecademy
-│   ├── Python
-│   ├── JavaScript
-│   └── Web Development
-└── Personal Projects
-    └── Coming Soon!
-```
+### 🌟 Quick Highlights
+- 🖥️ Building PCs since 2016
+- 📚 Learning to code via Codecademy
+- 💻 Hardware ➡️ Software transition
+- 🚀 Project showcase coming soon!
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jaegergrs/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/JaeTheTech)
-
-## 🌟 Highlights
-- 🖥️ Building computers since November 2014
-- 📚 Currently learning to code through Codecademy
-- 💻 Transitioning from hardware to software development
-- 🚀 Excited to share my learning journey
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeTheTech&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeTheTech&layout=compact&theme=transparent)
-
-## 🗂️ Upcoming Projects
-> As I progress through Codecademy, I'll be sharing my projects here. Stay tuned!
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaegergrs/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/JaeTheTech)
 
 ---
 <div align="center">
-⭐️ From <a href="https://github.com/JaeTheTech">JaeTheTech</a> | 🌱 Learning and Growing
+<i>⭐️ From <a href="https://github.com/JaeTheTech">JaeTheTech</a> | Happy Coding! 👨‍💻</i>
 </div>
