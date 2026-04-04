@@ -77,12 +77,6 @@ $ cat /dev/skills
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaeTheTech&theme=github_dark" alt="Most Commit Language" height="160">
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JaeTheTech&theme=dark&hide_border=true&background=0D1117&ring=A8A8A8&fire=F0F0F0&currStreakLabel=A8A8A8&sideLabels=A8A8A8&currStreakNum=F0F0F0&sideNums=F0F0F0&dates=5A5A5A" alt="GitHub Streak" width="680">
-</div>
-
 ### `> timeline.log`
 ```
 [2013]  Found IT. Took everything apart.
