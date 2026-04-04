@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> JaeTheTech
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&width=500&lines=Full-Stack+Developer;Security+Researcher;Hardware+Builder;9%2B+Years+in+Tech;Zero+Frameworks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&width=500&lines=Full-Stack+Developer;Security+Researcher;Hardware+Builder;13%2B+Years+in+Tech;Zero+Frameworks" alt="Typing SVG" />
 </div>
 
 <table>
@@ -10,11 +10,16 @@
 
 ### 👨‍💻 About Me
 ```python
+from datetime import date
+
 class JaeTheTech:
     def __init__(self):
         self.name = "Jaeger"
         self.role = "Developer & Security Researcher"
-        self.experience = "9+ years in tech"
+        self.in_tech_since = 2013
+        self.building_since = 2016
+        self.years_in_tech = date.today().year - self.in_tech_since  # 13+
+        self.years_building = date.today().year - self.building_since  # 10+
         self.org = "Svart Security"
         self.stack = ["JavaScript", "Node.js", "Rust", "HTML/CSS"]
         self.philosophy = "No frameworks. Build everything from scratch."
@@ -60,8 +65,10 @@ class JaeTheTech:
 
 ### 🛠 How I Work
 ```
-Hardware → Networking → Security → Software
-Started with PCs, got into networks, found security, now I code.
+2013 — Found IT. Took everything apart.
+2016 — Started building PCs from scratch.
+2020 — Picked up code. HTML/CSS → JS → Node → Rust.
+Now  — Full-stack dev, security researcher, building everything myself.
 Build first, read later. The project drives what I learn.
 ```
 
@@ -71,6 +78,8 @@ Build first, read later. The project drives what I learn.
 - 🧠 **AI** — Local inference with Ollama, agent systems, model fine-tuning
 - 🚫 **Zero frameworks** — No React, no Tailwind, no Bootstrap. Everything from scratch.
 - 🌍 **3 platforms** — Windows, macOS, Linux
+- 📅 **In tech since 2013** · building PCs since 2016 · writing code since 2020
+- 🧩 **Autistic** — Entry Level 3 Functional Skills in English & Maths. Traditional education never clicked, but self-learning did. Everything I know I taught myself by building.
 
 ### 📫 Connect
 [![Website](https://img.shields.io/badge/jaethetech.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jaethetech.com)
