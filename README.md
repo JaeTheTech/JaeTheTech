@@ -1,7 +1,5 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> JaeTheTech
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A8A8A8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=30&lines=const+dev+%3D+new+JaeTheTech();+%2F%2F+13%2B+years+in+tech;dev.build('Personal+AI',+'Svart+Security');+%2F%2F+from+scratch;dev.stack+%3D+%5B'JS',+'Node',+'Rust',+'HTML%2FCSS'%5D;+%2F%2F+zero+frameworks;dev.philosophy+%3D+'Build+first,+read+later.';+%2F%2F+self-taught" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A8A8A8&center=true&vCenter=true&repeat=true&width=550&height=24&lines=const+dev+%3D+new+JaeTheTech();+%2F%2F+13%2B+years+in+tech;dev.build('Personal+AI',+'Svart+Security');+%2F%2F+from+scratch;dev.stack+%3D+%5B'JS',+'Node',+'Rust',+'HTML%2FCSS'%5D;+%2F%2F+zero+frameworks;dev.philosophy+%3D+'Build+first%2C+read+later.';+%2F%2F+self-taught" alt="Typing SVG" />
 </div>
 
 <br>
@@ -66,9 +64,9 @@ $ cat /dev/skills
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JaeTheTech/JaeTheTech/output/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="340">
+  <img src="https://raw.githubusercontent.com/JaeTheTech/JaeTheTech/output/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" height="165">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/JaeTheTech/JaeTheTech/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages" width="340">
+  <img src="https://raw.githubusercontent.com/JaeTheTech/JaeTheTech/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages" height="165">
 </div>
 
 <br>
@@ -108,15 +106,15 @@ note    = Autistic. Traditional education never clicked. Self-learning did.
 
 ### `> links`
 
-[![Website](https://img.shields.io/badge/jaethetech.com-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jaethetech.com)
-[![Svart Security](https://img.shields.io/badge/Svart_Security-0a0a0a?style=for-the-badge&logo=shield&logoColor=white)](https://svartsecurity.org)
+[![Website](https://img.shields.io/badge/jaethetech.com-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jaethetech.com)
+[![Svart Security](https://img.shields.io/badge/Svart_Security-0a0a0a?style=for-the-badge&logo=shieldsdotio&logoColor=white)](https://svartsecurity.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaegergrs/)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaeTheTech)
 
 ### `> support`
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-0a0a0a?style=for-the-badge&logo=ko-fi&logoColor=FF5E5B)](https://ko-fi.com/jaethetech)
-[![Throne](https://img.shields.io/badge/Throne-0a0a0a?style=for-the-badge&logo=gift&logoColor=7B68EE)](https://throne.com/jaethetech)
+[![Throne](https://img.shields.io/badge/Throne-0a0a0a?style=for-the-badge&logo=githubsponsors&logoColor=7B68EE)](https://throne.com/jaethetech)
 
 ---
 <div align="center">
