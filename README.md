@@ -58,21 +58,29 @@ $ cat /dev/skills
 ### `> stats`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JaeTheTech/JaeTheTech/output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="700">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaeTheTech&theme=github_dark" alt="Profile Details" width="680">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JaeTheTech/JaeTheTech/output/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaeTheTech&theme=github_dark" alt="Stats" height="160">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/JaeTheTech/JaeTheTech/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaeTheTech&theme=github_dark" alt="Languages" height="160">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JaeTheTech&theme=dark&hide_border=true&background=0D1117&ring=A8A8A8&fire=F0F0F0&currStreakLabel=A8A8A8&sideLabels=A8A8A8&currStreakNum=F0F0F0&sideNums=F0F0F0&dates=5A5A5A" alt="GitHub Streak" width="700">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaeTheTech&theme=github_dark&utcOffset=1" alt="Commits by Time" height="160">
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaeTheTech&theme=github_dark" alt="Most Commit Language" height="160">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JaeTheTech&theme=dark&hide_border=true&background=0D1117&ring=A8A8A8&fire=F0F0F0&currStreakLabel=A8A8A8&sideLabels=A8A8A8&currStreakNum=F0F0F0&sideNums=F0F0F0&dates=5A5A5A" alt="GitHub Streak" width="680">
 </div>
 
 ### `> timeline.log`
