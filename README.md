@@ -54,12 +54,10 @@ class JaeTheTech:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeTheTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaeTheTech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700">
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaeTheTech&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="700">
+  <img src="https://streak-stats.demolab.com/?user=JaeTheTech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700">
 </div>
 
 ### 🚀 What I'm Building
