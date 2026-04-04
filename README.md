@@ -23,6 +23,7 @@ const jae = {
   stack:      ['JavaScript', 'Node.js', 'Rust', 'HTML/CSS', 'Tauri', 'Cloudflare'],
   philosophy: 'No frameworks. Build everything from scratch.',
   workstation: 'Ryzen 9 5950X · 64 GB · RTX 3070 Ti',
+  repos:       { public: 2, private: 12 },  // most work is private
 };
 ```
 
@@ -57,6 +58,8 @@ $ cat /dev/skills
 
 ### `> stats`
 
+> Most of my work lives in **private repos** — public stats only show a fraction.
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaeTheTech&theme=github_dark" alt="Profile Details" width="680">
 </div>
@@ -72,7 +75,7 @@ $ cat /dev/skills
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaeTheTech&theme=github_dark&utcOffset=1" alt="Commits by Time" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaeTheTech&theme=github_dark&utcOffset=0" alt="Commits by Time" height="160">
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaeTheTech&theme=github_dark" alt="Most Commit Language" height="160">
 </div>
