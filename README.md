@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td>
 
 ### 👨‍💻 About Me
 ```python
@@ -45,15 +45,23 @@ class JaeTheTech:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </td>
-<td width="40%">
-
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=JaeTheTech&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaeTheTech&theme=tokyonight" alt="GitHub Streak" width="100%">
-
-</td>
 </tr>
 </table>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaeTheTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeTheTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaeTheTech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaeTheTech&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="700">
+</div>
 
 ### 🚀 What I'm Building
 
