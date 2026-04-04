@@ -45,19 +45,25 @@ class JaeTheTech:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaeTheTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://raw.githubusercontent.com/JaeTheTech/JaeTheTech/output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="700">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeTheTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
+  <img src="https://raw.githubusercontent.com/JaeTheTech/JaeTheTech/output/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="400">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JaeTheTech&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700">
+  <img src="https://raw.githubusercontent.com/JaeTheTech/JaeTheTech/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" width="400">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JaeTheTech&theme=dark&hide_border=true" alt="GitHub Streak" width="700">
 </div>
 
 ### 🚀 What I'm Building
@@ -90,8 +96,11 @@ Build first, read later. The project drives what I learn.
 [![Website](https://img.shields.io/badge/jaethetech.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jaethetech.com)
 [![Svart Security](https://img.shields.io/badge/Svart_Security-5865F2?style=for-the-badge&logo=shield&logoColor=white)](https://svartsecurity.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaegergrs/)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jaethetech)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaeTheTech)
+
+### ☕ Support My Work
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jaethetech)
+[![Throne](https://img.shields.io/badge/Throne-7B68EE?style=for-the-badge&logo=gift&logoColor=white)](https://throne.com/jaethetech)
 
 ---
 <div align="center">
