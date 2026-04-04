@@ -20,22 +20,28 @@ const jae = {
   inTechSince:  2013,  // 13+ years
   buildingSince: 2016, // 10+ years — PCs from scratch
   codingSince:   2020, // 6+ years
-  stack:      ['JavaScript', 'Node.js', 'Rust', 'HTML/CSS', 'Tauri', 'Cloudflare'],
-  philosophy: 'No frameworks. Build everything from scratch.',
+  stack: [
+    'JavaScript', 'Node.js', 'Rust',
+    'HTML/CSS', 'Tauri', 'Cloudflare'
+  ],
+  philosophy: 'No frameworks. Build from scratch.',
   workstation: 'Ryzen 9 5950X · 64 GB · RTX 3070 Ti',
-  repos:       { public: 2, private: 12 },  // most work is private
+  repos: { public: 2, private: 12 },
 };
 ```
 
 ### `> projects.js`
 ```js
 const projects = [
-  { name: 'Personal AI',     status: 'building', tech: 'Node, Rust, Tauri, Ollama',
-    desc: 'Self-editing AI assistant — coding, trading, news, daily tasks' },
-  { name: 'Svart Security',  status: 'building', tech: 'Node, Rust, Tauri, AES-256',
-    desc: 'Encrypted privacy toolkit — browser, AI, vault, messaging' },
-  { name: 'JaeTheTech.com',  status: 'live',     tech: 'HTML, CSS, JS, CF Workers',
-    desc: 'Personal site with custom passwordless auth system' },
+  { name: 'Personal AI',    status: 'building',
+    tech: 'Node, Rust, Tauri, Ollama',
+    desc: 'Self-editing AI assistant' },
+  { name: 'Svart Security', status: 'building',
+    tech: 'Node, Rust, Tauri, AES-256',
+    desc: 'Encrypted privacy toolkit' },
+  { name: 'JaeTheTech.com', status: 'live',
+    tech: 'HTML, CSS, JS, CF Workers',
+    desc: 'Passwordless auth portfolio' },
 ];
 ```
 
