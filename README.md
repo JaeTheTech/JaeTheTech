@@ -120,5 +120,5 @@ note    = Autistic. Traditional education never clicked. Self-learning did.
 
 ---
 <div align="center">
-<code>// I build things, break things, and figure out how they work.</code>
+<code>// I build things, I break things, figure out how they work!</code>
 </div>
