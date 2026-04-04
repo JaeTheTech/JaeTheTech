@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&width=500&lines=Full-Stack+Developer;Security+Researcher;Hardware+Builder;13%2B+Years+in+Tech;Zero+Frameworks" alt="Typing SVG" />
 </div>
 
-<table>
-<tr>
-<td>
-
 ### 👨‍💻 About Me
 ```python
 from datetime import date
@@ -18,17 +14,19 @@ class JaeTheTech:
         self.role = "Developer & Security Researcher"
         self.in_tech_since = 2013
         self.building_since = 2016
-        self.years_in_tech = date.today().year - self.in_tech_since  # 13+
-        self.years_building = date.today().year - self.building_since  # 10+
         self.org = "Svart Security"
-        self.stack = ["JavaScript", "Node.js", "Rust", "HTML/CSS"]
-        self.philosophy = "No frameworks. Build everything from scratch."
+        self.stack = ["JS", "Node", "Rust", "HTML/CSS"]
+        self.philosophy = "No frameworks. Build it all."
+
+        now = date.today().year
+        self.years_in_tech = now - self.in_tech_since   # 13+
+        self.years_building = now - self.building_since  # 10+
 
     def current_projects(self):
         return {
-            "Personal AI": "Self-editing AI assistant — Node, Rust, Tauri",
-            "Svart Security": "Encrypted privacy tools — AI, browser, vault",
-            "JaeTheTech.com": "Custom site with Cloudflare Workers auth"
+            "Personal AI": "Self-editing AI — Node, Rust, Tauri",
+            "Svart Security": "Encrypted privacy tools",
+            "JaeTheTech.com": "Cloudflare Workers auth"
         }
 ```
 
@@ -43,10 +41,6 @@ class JaeTheTech:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
 
 ### 📊 GitHub Stats
 
