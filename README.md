@@ -67,23 +67,23 @@ $ cat /dev/skills
 > Most of my work lives in **private repos** — public stats only show a fraction.
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaeTheTech&theme=github_dark&_ts=1779337540" alt="Profile Details" width="680">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaeTheTech&theme=github_dark&_ts=1779357435" alt="Profile Details" width="680">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaeTheTech&theme=github_dark&_ts=1779337540" alt="Stats" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaeTheTech&theme=github_dark&_ts=1779357435" alt="Stats" height="160">
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaeTheTech&theme=github_dark&_ts=1779337540" alt="Languages" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaeTheTech&theme=github_dark&_ts=1779357435" alt="Languages" height="160">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaeTheTech&theme=github_dark&utcOffset=0&_ts=1779337540" alt="Commits by Time" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaeTheTech&theme=github_dark&utcOffset=0&_ts=1779357435" alt="Commits by Time" height="160">
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaeTheTech&theme=github_dark&_ts=1779337540" alt="Most Commit Language" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaeTheTech&theme=github_dark&_ts=1779357435" alt="Most Commit Language" height="160">
 </div>
 
 ### `> timeline.log`
@@ -132,4 +132,4 @@ note    = Autistic. Traditional education never clicked. Self-learning did.
 <code>// I build things, I break things, figure out how they work!</code>
 </div>
 
-<!-- updated: 2026-05-21 04:25 UTC -->
+<!-- updated: 2026-05-21 09:57 UTC -->
